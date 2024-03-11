@@ -1,5 +1,5 @@
 # Excel-Sales-and-Finance-Analytics
-My Excel project on Sales and Finance analysis of AtliQ Hardware
+
 ## Sales Report :
 
 
@@ -35,3 +35,7 @@ My Excel project on Sales and Finance analysis of AtliQ Hardware
 - [x]	Designing user empathetic reports.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+
+## Acknowledgments
+Special thanks to Dhaval Patel, Hemanand Vadivel, and the Codebasics team for their guidance and providing real-world datasets. Their mentorship has been invaluable all through the journey.
